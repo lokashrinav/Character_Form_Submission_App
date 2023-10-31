@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { createClient } from '@supabase/supabase-js';
 
 const supabaseUrl = 'https://prkzshxzizchbwgspsrx.supabase.co';
-const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBya3pzaHh6aXpjaGJ3Z3Nwc3J4Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTY5ODYzMTYyOCwiZXhwIjoyMDE0MjA3NjI4fQ.85m0CUSq56xFvXmBMtS3J3V9_spKaI15EvSFjJLYHSM';
+const supabaseKey = 'API_KEY';
 const supabase = createClient(supabaseUrl, supabaseKey);
 
 function AddCharacterPage() {
