@@ -1,8 +1,8 @@
-# Web Development Project 7 - *Name of App Here*
+# Web Development Project 7 - Characters4Fun
 
 Submitted by: Shrinav Loka
 
-This web app: **insert description**
+This web app: In this project, I created a custom web app that enables users to assemble a personalized team for any game. Key features of this project include a create form for adding new crewmates with customizable names and attributes, a summary page displaying all added crewmates, the ability to update and delete existing crewmates, and unique links for each crewmate to access their individual info pages.
 
 Time spent: 15 hours spent in total
 
