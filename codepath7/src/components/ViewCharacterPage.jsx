@@ -101,7 +101,6 @@ function ViewCharacterPage() {
           </li>
         ))}
       </ul>
-
       <Routes>
   {characters.map((character) => (
     <Route
